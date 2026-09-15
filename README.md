@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Nishanth A</h1>
 <h3 align="center">A passionate frontend developer from Chennai</h3>
-
+<marqueee>Nishanth</marqueee>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthns370&label=Profile%20views&color=0e75b6&style=flat" alt="nishanthns370" /> </p>
 <img width="1200" height="100" alt="GHBanner" src="https://nss.org/wp-content/uploads/2017/07/banner-design-contest-javier-arizabalo-02-900.jpg" />
 
