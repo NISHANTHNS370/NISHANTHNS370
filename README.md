@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthns370&label=Profile%20views&color=0e75b6&style=flat" alt="nishanthns370" /> </p>
-<img width="1200" height="100" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="100" alt="GHBanner" src="https://nss.org/wp-content/uploads/2017/07/banner-design-contest-javier-arizabalo-02-900.jpg" />
 
   <h1>Built with AI Studio</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanthns370" alt="nishanthns370" /></a> </p>
