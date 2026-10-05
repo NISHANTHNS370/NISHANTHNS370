@@ -137,5 +137,5 @@ When I'm not coding, you'll find me strumming my guitar — my escape from the t
 <div align="center">
 
 ### Let's make the web & app world a more exciting place, one quirky line of code at a time! 🚀
-
+<B>Coverd By -Ns Crop's</b>
 </div>
