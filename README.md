@@ -4,7 +4,7 @@
 
 <br />
 
-# Hi, I'm Parminder Singh 👋
+# Hi, I'm Nishanth  👋
 ### Frontend Web & App Developer from India 🇮🇳
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120" />
@@ -13,9 +13,9 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/360parminder)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/360parminder/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/360.parminder/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/error___ns/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@360Parminder)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:360.parminder@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanthrto2006@gmail.com)
 
 </div>
 
@@ -25,11 +25,11 @@
 
 Hey there! I'm a **Frontend Web & App Developer** from Rajasthan, India, trying to make the internet a bit cooler one website at a time. I build fancy, user-friendly digital products and love turning creative ideas into functional, polished experiences.
 
-- 🔭 Currently working on **[Kosh](https://github.com/360Parminder/kosh)**
+- 🔭 Currently working on **[Kosh](https://github.com/NISHANTHNS370/kosh)**
 - 💡 Currently learning **Rust**
 - 🩺 Proud creator of **Swasthya** — a sleek, user-friendly health tracking app
 - 🤝 Open to collaborating on open-source projects and freelance work
-- ✉️ Reach me at **360.parminder@gmail.com**
+- ✉️ Reach me at **Nishanthrto2006r@gmail.com**
 
 <br />
 
@@ -39,7 +39,7 @@ Hey there! I'm a **Frontend Web & App Developer** from Rajasthan, India, trying 
 |---|---|
 | 🥇 GDSC Hackathon | Led my team to the finals |
 | 🥈 Kriyeta 3.0 | Top 2 of 573 teams (offline battle, India) |
-| 🥈 Badminton (Singles) | Silver medal |
+| 🥈 Karate (Singles) | Gold medal |
 | 🥇 Football | Gold medal |
 | 🥇 Basketball | Gold medal |
 | 🥈 Volleyball | Silver medal |
